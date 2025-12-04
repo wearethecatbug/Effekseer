@@ -1,8 +1,8 @@
-cmake_minimum_required(VERSION 3.0.0)
+cmake_minimum_required(VERSION 3.15)
 project(EffekseerRendererWebGPU)
 
-# Include FilterFolder function
-include(${CMAKE_CURRENT_SOURCE_DIR}/../../cmake/FilterFolder.cmake)
+# Include FilterFolder function (already included by parent CMakeLists.txt)
+# include(${CMAKE_CURRENT_SOURCE_DIR}/../../cmake/FilterFolder.cmake)
 
 # WebGPU support
 option(WEBGPU_EMSCRIPTEN "Build for Emscripten (browser)" OFF)
@@ -40,7 +40,9 @@ elseif(WEBGPU_DAWN)
     if(DEFINED DAWN_INCLUDE_DIR)
         target_include_directories(${PROJECT_NAME} PRIVATE ${DAWN_INCLUDE_DIR})
     else()
-        message(WARNING "DAWN_INCLUDE_DIR not set for native WebGPU build")
+        # Use stub headers for compilation testing
+        message(STATUS "DAWN_INCLUDE_DIR not set for EffekseerRendererWebGPU, using stub headers")
+        target_include_directories(${PROJECT_NAME} PRIVATE ${CMAKE_CURRENT_LIST_DIR}/../3rdParty/LLGI/src/WebGPU/stub_headers)
     endif()
     target_compile_definitions(${PROJECT_NAME} PRIVATE LLGI_WEBGPU_DAWN)
 endif()

@@ -9,6 +9,9 @@ project(Effekseer C CXX)
 # C++ version
 set(CMAKE_CXX_STANDARD 17)
 
+# Include helper functions
+include(${CMAKE_CURRENT_SOURCE_DIR}/../../cmake/FilterFolder.cmake)
+
 function(WarnError target)
     if(MSVC)
         target_compile_options(${target} PRIVATE /we4267 /we4456 /we4458 /we4715)
