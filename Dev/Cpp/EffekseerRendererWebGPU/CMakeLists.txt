@@ -1,6 +1,9 @@
 cmake_minimum_required(VERSION 3.0.0)
 project(EffekseerRendererWebGPU)
 
+# Include FilterFolder function
+include(${CMAKE_CURRENT_SOURCE_DIR}/../../cmake/FilterFolder.cmake)
+
 # WebGPU support
 option(WEBGPU_EMSCRIPTEN "Build for Emscripten (browser)" OFF)
 option(WEBGPU_DAWN "Build with Dawn (native)" ON)
