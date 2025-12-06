@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\LLGI.Buffer.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\LLGI.CommandList.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\LLGI.Compiler.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\LLGI.Graphics.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\LLGI.PipelineState.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\LLGI.Platform.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\LLGI.Query.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\LLGI.Texture.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\PC\LLGI.CreatePC.cpp">
+      <Filter>PC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\Win\LLGI.WindowWin.cpp">
+      <Filter>Win</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.BaseDX12.cpp">
+      <Filter>DX12</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.BufferDX12.cpp">
+      <Filter>DX12</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.CommandListDX12.cpp">
+      <Filter>DX12</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.CompilerDX12.cpp">
+      <Filter>DX12</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.DescriptorHeapDX12.cpp">
+      <Filter>DX12</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.GraphicsDX12.cpp">
+      <Filter>DX12</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.PipelineStateDX12.cpp">
+      <Filter>DX12</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.PlatformDX12.cpp">
+      <Filter>DX12</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.QueryDX12.cpp">
+      <Filter>DX12</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.RenderPassDX12.cpp">
+      <Filter>DX12</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.RenderPassPipelineStateDX12.cpp">
+      <Filter>DX12</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.ShaderDX12.cpp">
+      <Filter>DX12</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.SingleFrameMemoryPoolDX12.cpp">
+      <Filter>DX12</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.TextureDX12.cpp">
+      <Filter>DX12</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\WebGPU\LLGI.BaseWebGPU.cpp">
+      <Filter>WebGPU</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\WebGPU\LLGI.BufferWebGPU.cpp">
+      <Filter>WebGPU</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\WebGPU\LLGI.CommandListWebGPU.cpp">
+      <Filter>WebGPU</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\WebGPU\LLGI.GraphicsWebGPU.cpp">
+      <Filter>WebGPU</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\WebGPU\LLGI.PipelineStateWebGPU.cpp">
+      <Filter>WebGPU</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\WebGPU\LLGI.RenderPassWebGPU.cpp">
+      <Filter>WebGPU</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\WebGPU\LLGI.ShaderWebGPU.cpp">
+      <Filter>WebGPU</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\WebGPU\LLGI.SingleFrameMemoryPoolWebGPU.cpp">
+      <Filter>WebGPU</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\WebGPU\LLGI.TextureWebGPU.cpp">
+      <Filter>WebGPU</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\LLGI.Base.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\LLGI.Buffer.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\LLGI.CommandList.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\LLGI.Compiler.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\LLGI.Graphics.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\LLGI.PipelineState.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\LLGI.Platform.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\LLGI.Query.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\LLGI.Shader.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\LLGI.Texture.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\Win\LLGI.WindowWin.h">
+      <Filter>Win</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.BaseDX12.h">
+      <Filter>DX12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.BufferDX12.h">
+      <Filter>DX12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.CommandListDX12.h">
+      <Filter>DX12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.CompilerDX12.h">
+      <Filter>DX12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.DescriptorHeapDX12.h">
+      <Filter>DX12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.GraphicsDX12.h">
+      <Filter>DX12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.PipelineStateDX12.h">
+      <Filter>DX12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.PlatformDX12.h">
+      <Filter>DX12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.QueryDX12.h">
+      <Filter>DX12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.RenderPassDX12.h">
+      <Filter>DX12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.RenderPassPipelineStateDX12.h">
+      <Filter>DX12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.ShaderDX12.h">
+      <Filter>DX12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.SingleFrameMemoryPoolDX12.h">
+      <Filter>DX12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\DX12\LLGI.TextureDX12.h">
+      <Filter>DX12</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\WebGPU\LLGI.BaseWebGPU.h">
+      <Filter>WebGPU</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\WebGPU\LLGI.BufferWebGPU.h">
+      <Filter>WebGPU</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\WebGPU\LLGI.CommandListWebGPU.h">
+      <Filter>WebGPU</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\WebGPU\LLGI.GraphicsWebGPU.h">
+      <Filter>WebGPU</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\WebGPU\LLGI.PipelineStateWebGPU.h">
+      <Filter>WebGPU</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\WebGPU\LLGI.RenderPassWebGPU.h">
+      <Filter>WebGPU</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\WebGPU\LLGI.ShaderWebGPU.h">
+      <Filter>WebGPU</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\WebGPU\LLGI.SingleFrameMemoryPoolWebGPU.h">
+      <Filter>WebGPU</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\WebGPU\LLGI.TextureWebGPU.h">
+      <Filter>WebGPU</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\3rdParty\LLGI\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Base">
+      <UniqueIdentifier>{DBC4EA07-15B3-340D-AABB-28089A6D29C2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DX12">
+      <UniqueIdentifier>{DF5F0249-AC74-3C18-8019-41CC9D36500D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PC">
+      <UniqueIdentifier>{28D41E6A-BC6F-36C7-BC5F-B53C602B2CC9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="WebGPU">
+      <UniqueIdentifier>{08ACF658-A1CA-34CC-B849-F681CF3569A7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Win">
+      <UniqueIdentifier>{EB991CB4-D1E9-3B8B-877F-A70F0547D021}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

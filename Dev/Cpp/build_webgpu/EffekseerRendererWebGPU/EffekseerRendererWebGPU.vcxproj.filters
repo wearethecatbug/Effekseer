@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\EffekseerRendererWebGPU.Renderer.cpp">
+      <Filter>EffekseerRendererWebGPU</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU.h" />
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\EffekseerRendererWebGPU.Base.Pre.h">
+      <Filter>EffekseerRendererWebGPU</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\EffekseerRendererWebGPU.Base.h">
+      <Filter>EffekseerRendererWebGPU</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\EffekseerRendererWebGPU.Renderer.h">
+      <Filter>EffekseerRendererWebGPU</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\ad_model_distortion_ps.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\ad_model_distortion_vs.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\ad_model_lit_ps.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\ad_model_lit_vs.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\ad_model_unlit_ps.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\ad_model_unlit_vs.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\ad_sprite_distortion_vs.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\ad_sprite_lit_vs.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\ad_sprite_unlit_vs.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\gpu_particles_clear_cs.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\gpu_particles_render_ps.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\gpu_particles_render_vs.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\gpu_particles_spawn_cs.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\gpu_particles_update_cs.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\model_distortion_ps.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\model_distortion_vs.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\model_lit_ps.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\model_lit_vs.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\model_unlit_ps.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\model_unlit_vs.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\sprite_distortion_ps.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\sprite_distortion_vs.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\sprite_lit_ps.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\sprite_lit_vs.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\sprite_unlit_ps.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\EffekseerRendererWebGPU\ShaderHeader\sprite_unlit_vs.h">
+      <Filter>EffekseerRendererWebGPU\ShaderHeader</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerRendererWebGPU\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="EffekseerRendererWebGPU">
+      <UniqueIdentifier>{93E4C76C-3FEE-38D3-91FC-6B2CDFE4A490}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EffekseerRendererWebGPU\ShaderHeader">
+      <UniqueIdentifier>{E10193D1-E6D2-3102-9DD9-C9CA1664C151}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

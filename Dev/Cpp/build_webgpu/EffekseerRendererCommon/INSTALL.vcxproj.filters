@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\build_webgpu\CMakeFiles\1d898c9e05efb3b2f2566d90d51c39eb\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A693E8C3-4AF2-3D73-B770-175E659857B9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

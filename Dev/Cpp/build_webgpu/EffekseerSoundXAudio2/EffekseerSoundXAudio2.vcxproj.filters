@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerSoundXAudio2\EffekseerSoundXAudio2\EffekseerSoundXAudio2.Sound.cpp">
+      <Filter>EffekseerSoundXAudio2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerSoundXAudio2\EffekseerSoundXAudio2\EffekseerSoundXAudio2.SoundLoader.cpp">
+      <Filter>EffekseerSoundXAudio2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerSoundXAudio2\EffekseerSoundXAudio2\EffekseerSoundXAudio2.SoundPlayer.cpp">
+      <Filter>EffekseerSoundXAudio2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerSoundXAudio2\EffekseerSoundXAudio2\EffekseerSoundXAudio2.SoundVoice.cpp">
+      <Filter>EffekseerSoundXAudio2</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerSoundXAudio2\EffekseerSoundXAudio2\EffekseerSoundXAudio2.SoundImplemented.h">
+      <Filter>EffekseerSoundXAudio2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerSoundXAudio2\EffekseerSoundXAudio2\EffekseerSoundXAudio2.SoundLoader.h">
+      <Filter>EffekseerSoundXAudio2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerSoundXAudio2\EffekseerSoundXAudio2\EffekseerSoundXAudio2.SoundPlayer.h">
+      <Filter>EffekseerSoundXAudio2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerSoundXAudio2\EffekseerSoundXAudio2\EffekseerSoundXAudio2.SoundVoice.h">
+      <Filter>EffekseerSoundXAudio2</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerSoundXAudio2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="EffekseerSoundXAudio2">
+      <UniqueIdentifier>{4E004A45-D8D4-3B2A-8F54-039EE8E10724}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

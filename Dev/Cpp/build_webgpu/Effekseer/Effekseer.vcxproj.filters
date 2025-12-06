@@ -1,0 +1,600 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Color.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.CurveLoader.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.DefaultEffectLoader.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.DefaultFile.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Effect.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.EffectNode.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.EffectNodeModel.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.EffectNodeRibbon.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.EffectNodeRing.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.EffectNodeRoot.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.EffectNodeSprite.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.EffectNodeTrack.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.FCurves.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Instance.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.InstanceChunk.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.InstanceContainer.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.InstanceGlobal.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.InstanceGroup.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.InternalScript.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Manager.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Matrix43.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Matrix44.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Random.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.RectF.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Resource.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.ResourceManager.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Setting.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Vector2D.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Vector3D.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.WorkerThread.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Material\Effekseer.MaterialFile.cpp">
+      <Filter>Effekseer\Material</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Material\Effekseer.CompiledMaterial.cpp">
+      <Filter>Effekseer\Material</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Material\Effekseer.MaterialCompiler.cpp">
+      <Filter>Effekseer\Material</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\IO\Effekseer.EfkEfcFactory.cpp">
+      <Filter>Effekseer\IO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.Collisions.cpp">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.Easing.cpp">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.Parameters.cpp">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.KillRules.cpp">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.GpuParticlesParameter.cpp">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.Rotation.cpp">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.Trigger.cpp">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Utils\Effekseer.CustomAllocator.cpp">
+      <Filter>Effekseer\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Mat43f.cpp">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Mat44f.cpp">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Utils.cpp">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Noise\Effekseer.CurlNoise.cpp">
+      <Filter>Effekseer\Noise</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\ForceField\Effekseer.ForceFields.cpp">
+      <Filter>Effekseer\ForceField</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Model\Effekseer.ProceduralModelGenerator.cpp">
+      <Filter>Effekseer\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Model\Effekseer.Model.cpp">
+      <Filter>Effekseer\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Model\Effekseer.ModelLoader.cpp">
+      <Filter>Effekseer\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Model\Effekseer.SplineGenerator.cpp">
+      <Filter>Effekseer\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Model\Effekseer.PointCacheGenerator.cpp">
+      <Filter>Effekseer\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Network\Effekseer.Client.cpp">
+      <Filter>Effekseer\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Network\Effekseer.Server.cpp">
+      <Filter>Effekseer\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Network\Effekseer.Session.cpp">
+      <Filter>Effekseer\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Network\Effekseer.Socket.cpp">
+      <Filter>Effekseer\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\VectorField\Effekseer.VectorField.cpp">
+      <Filter>Effekseer\VectorField</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\VectorField\Effekseer.VectorFieldLoader.cpp">
+      <Filter>Effekseer\VectorField</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer.h" />
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer.Modules.h" />
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer.SIMD.h" />
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Base.Pre.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Base.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Effect.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Color.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.DefaultFile.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.File.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Manager.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Math.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Matrix43.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Matrix44.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Resource.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.RectF.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Setting.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Vector2D.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Vector3D.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Backend\Effekseer.GraphicsDevice.h">
+      <Filter>Effekseer\Backend</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Network\Effekseer.Server.h">
+      <Filter>Effekseer\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Network\Effekseer.Client.h">
+      <Filter>Effekseer\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Utils\Effekseer.CustomAllocator.h">
+      <Filter>Effekseer\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Utils\Effekseer.String.h">
+      <Filter>Effekseer\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\IO\Effekseer.EfkEfcFactory.h">
+      <Filter>Effekseer\IO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Base.h">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Float4.h">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Float4_Gen.h">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Float4_NEON.h">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Float4_SSE.h">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Int4.h">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Int4_Gen.h">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Int4_NEON.h">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Int4_SSE.h">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Bridge.h">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Bridge_Gen.h">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Bridge_NEON.h">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Bridge_SSE.h">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Vec2f.h">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Vec3f.h">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Vec4f.h">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Mat43f.h">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Mat44f.h">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Quaternionf.h">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\SIMD\Utils.h">
+      <Filter>Effekseer\SIMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.Parameters.h">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Renderer\Effekseer.SpriteRenderer.h">
+      <Filter>Effekseer\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Renderer\Effekseer.RibbonRenderer.h">
+      <Filter>Effekseer\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Renderer\Effekseer.RingRenderer.h">
+      <Filter>Effekseer\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Renderer\Effekseer.ModelRenderer.h">
+      <Filter>Effekseer\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Renderer\Effekseer.TrackRenderer.h">
+      <Filter>Effekseer\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Renderer\Effekseer.GpuTimer.h">
+      <Filter>Effekseer\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Renderer\Effekseer.GpuParticles.h">
+      <Filter>Effekseer\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.EffectLoader.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.TextureLoader.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.MaterialLoader.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Curve.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.CurveLoader.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.SoundLoader.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.WorkerThread.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.ResourceManager.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Model\Effekseer.Model.h">
+      <Filter>Effekseer\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Model\Effekseer.ModelLoader.h">
+      <Filter>Effekseer\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Sound\Effekseer.SoundPlayer.h">
+      <Filter>Effekseer\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\VectorField\Effekseer.VectorField.h">
+      <Filter>Effekseer\VectorField</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\VectorField\Effekseer.VectorFieldLoader.h">
+      <Filter>Effekseer\VectorField</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.DefaultEffectLoader.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.EffectImplemented.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.EffectNode.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.EffectNodeModel.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.EffectNodeRibbon.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.EffectNodeRing.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.EffectNodeRoot.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.EffectNodeSprite.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.EffectNodeTrack.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.FCurves.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Instance.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.InstanceChunk.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.InstanceContainer.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.InstanceGlobal.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.InstanceGroup.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.InternalScript.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.InternalStruct.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.IntrusiveList.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.ManagerImplemented.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Effekseer.Random.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\ForceField\Effekseer.ForceFields.h">
+      <Filter>Effekseer\ForceField</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Material\Effekseer.CompiledMaterial.h">
+      <Filter>Effekseer\Material</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Material\Effekseer.MaterialCompiler.h">
+      <Filter>Effekseer\Material</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Material\Effekseer.MaterialFile.h">
+      <Filter>Effekseer\Material</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Model\Effekseer.PointCacheGenerator.h">
+      <Filter>Effekseer\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Model\Effekseer.ProceduralModelGenerator.h">
+      <Filter>Effekseer\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Model\Effekseer.ProceduralModelParameter.h">
+      <Filter>Effekseer\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Model\Effekseer.SplineGenerator.h">
+      <Filter>Effekseer\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Network\Effekseer.ClientImplemented.h">
+      <Filter>Effekseer\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Network\Effekseer.ServerImplemented.h">
+      <Filter>Effekseer\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Network\Effekseer.Session.h">
+      <Filter>Effekseer\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Network\Effekseer.Socket.h">
+      <Filter>Effekseer\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Network\data\profiler_generated.h">
+      <Filter>Effekseer\Network\data</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Network\data\reload_generated.h">
+      <Filter>Effekseer\Network\data</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Noise\Effekseer.CurlNoise.h">
+      <Filter>Effekseer\Noise</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Noise\Effekseer.PerlinNoise.h">
+      <Filter>Effekseer\Noise</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.AllTypeColor.h">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.AlphaCutoff.h">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.BasicSettings.h">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.Collisions.h">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.CustomData.h">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.DepthParameter.h">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.DynamicParameter.h">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.Easing.h">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.GpuParticlesParameter.h">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.KillRules.h">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.LOD.h">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.Rotation.h">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.Scaling.h">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.Sound.h">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.SpawnMethod.h">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.Translation.h">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.Trigger.h">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Parameter\Effekseer.UV.h">
+      <Filter>Effekseer\Parameter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Renderer\Effekseer.ParticleRenderer.h">
+      <Filter>Effekseer\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Utils\Effekseer.BinaryReader.h">
+      <Filter>Effekseer\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Utils\Effekseer.BinaryVersion.h">
+      <Filter>Effekseer\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Utils\Effekseer.Compatiblity.h">
+      <Filter>Effekseer\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Utils\Effekseer.InstancePool.h">
+      <Filter>Effekseer\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\Effekseer\Utils\Effekseer.Profiler.h">
+      <Filter>Effekseer\Utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\Effekseer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Effekseer">
+      <UniqueIdentifier>{E0820CF6-3C36-36C0-8E89-3A1A72B2B842}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effekseer\Backend">
+      <UniqueIdentifier>{DBAA5634-3737-31CA-9D39-824F4B01F9E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effekseer\ForceField">
+      <UniqueIdentifier>{3CEF584D-B355-3CF3-B58B-683C07790214}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effekseer\IO">
+      <UniqueIdentifier>{1AE9177D-4415-3C24-BF9C-48BEF2CF174B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effekseer\Material">
+      <UniqueIdentifier>{7971E3C6-BB1D-3432-9310-9CC927FE8726}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effekseer\Model">
+      <UniqueIdentifier>{8D8E3CAC-CCEB-3BA0-9D6E-0FA76ECABF62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effekseer\Network">
+      <UniqueIdentifier>{573DAC69-9F33-3EEC-9B72-9AFEF40A8582}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effekseer\Network\data">
+      <UniqueIdentifier>{66573853-4257-312F-9BF4-611A7E584A65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effekseer\Noise">
+      <UniqueIdentifier>{DF24CAEB-3E5E-3B8F-8254-5CC7436D52CC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effekseer\Parameter">
+      <UniqueIdentifier>{F77F585B-DBB4-315E-9084-25E78EE20F25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effekseer\Renderer">
+      <UniqueIdentifier>{03AF8C5E-A3C8-3209-AC0B-5437453C12BA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effekseer\SIMD">
+      <UniqueIdentifier>{FFC4B088-17D7-3B22-B903-38C13FC55382}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effekseer\Sound">
+      <UniqueIdentifier>{6D582AEA-F031-34B5-BFE9-6DB92C58129A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effekseer\Utils">
+      <UniqueIdentifier>{A57887B5-32AC-3862-9149-7CEEB0643EDB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effekseer\VectorField">
+      <UniqueIdentifier>{AAD35E88-B1BA-3B7B-97C6-C0A34F4B34C1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

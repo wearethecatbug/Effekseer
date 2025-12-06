@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerSoundDSound\EffekseerSoundDSound\EffekseerSoundDSound.Sound.cpp">
+      <Filter>EffekseerSoundDSound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerSoundDSound\EffekseerSoundDSound\EffekseerSoundDSound.SoundLoader.cpp">
+      <Filter>EffekseerSoundDSound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerSoundDSound\EffekseerSoundDSound\EffekseerSoundDSound.SoundPlayer.cpp">
+      <Filter>EffekseerSoundDSound</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerSoundDSound\EffekseerSoundDSound\EffekseerSoundDSound.SoundVoice.cpp">
+      <Filter>EffekseerSoundDSound</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerSoundDSound\EffekseerSoundDSound\EffekseerSoundDSound.SoundImplemented.h">
+      <Filter>EffekseerSoundDSound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerSoundDSound\EffekseerSoundDSound\EffekseerSoundDSound.SoundLoader.h">
+      <Filter>EffekseerSoundDSound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerSoundDSound\EffekseerSoundDSound\EffekseerSoundDSound.SoundPlayer.h">
+      <Filter>EffekseerSoundDSound</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerSoundDSound\EffekseerSoundDSound\EffekseerSoundDSound.SoundVoice.h">
+      <Filter>EffekseerSoundDSound</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\wrk\etherlords_pr_assets\packages\particles\Effekseer\Dev\Cpp\EffekseerSoundDSound\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="EffekseerSoundDSound">
+      <UniqueIdentifier>{086376EB-59C7-37C8-87CA-713E04481A84}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
